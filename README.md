@@ -1,1 +1,2 @@
 # Pakistan-Suicide-Bombing-Attacks
+This project involves an in-depth analysis of data related to suicide bombing attacks in Pakistan. By applying EDA techniques, we will explore patterns, frequencies, locations, and the impact of these attacks over time. The goal is to uncover trends that could inform security policies and preventive measures. This analysis will not only highlight socio-political and demographic factors associated with these incidents but also aim to provide insights that could contribute to peacekeeping and counter-terrorism strategies.
